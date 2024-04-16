@@ -1,0 +1,14 @@
+{
+    "name": "Let me google that",
+    "description": "Display let me google that link with /googlethat.",
+    "authors": [
+        {
+            "name": "Kiriox",
+            "id": "687987482541031436"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "search"
+    }
+}
